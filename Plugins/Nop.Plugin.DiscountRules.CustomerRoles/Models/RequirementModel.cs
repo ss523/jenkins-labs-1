@@ -10,7 +10,7 @@ namespace Nop.Plugin.DiscountRules.CustomerRoles.Models
         {
             AvailableCustomerRoles = new List<SelectListItem>();
         }
-        xxx;
+
         [NopResourceDisplayName("Plugins.DiscountRules.CustomerRoles.Fields.CustomerRole")]
         public int CustomerRoleId { get; set; }
 
